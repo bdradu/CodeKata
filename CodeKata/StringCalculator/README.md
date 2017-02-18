@@ -1,0 +1,1 @@
+# CodeKata - String Calculator
